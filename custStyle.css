@@ -70,6 +70,7 @@ html,body{
 }
 .detcol{
     display: flex;
+}
 
 .details h5{
     font-family: monospace;
@@ -190,8 +191,7 @@ padding: 0 40px
 
 
 .form{
-    display: flex;
-    position: relative;
+    
     border: 1px solid black ;
     border-radius: 5px;
     box-shadow: 1px 1px 10px 1px;
