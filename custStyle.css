@@ -65,7 +65,11 @@ html,body{
 }
 .details{
     padding: 40px;
+    display: flex;
+    position: relative;
 }
+.detcol{
+    display: flex;
 
 .details h5{
     font-family: monospace;
